@@ -1,0 +1,59 @@
+body{
+    
+    background: url("http://oswallpapers.com/wp-content/uploads/2018/09/default.jpg");
+    
+    background-repeat: none;
+    background-size: cover;   
+    
+    
+}
+h1{
+    
+    padding-left: 150px;
+    font-family: 'Times New Roman', Times, serif;
+}
+form{
+    
+    font-size:x-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+label{
+
+    font-size:x-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+input{
+    font-size:x-large;
+    border-top:none;
+    border-left:none;
+    border-right: none;
+    background:none;
+    opacity: 0.5;
+    border-bottom: 1px solid rgb(86, 86, 250);
+}
+.Baghi{
+    margin-top:250px;
+    background: whitesmoke;
+    background-blend-mode: darken;
+    width: 30%;
+    height: 40vh;
+    margin-left:500px;
+    padding-left: 30px;
+    border-radius: 20%;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+
+
+
+}
+button:hover{
+    color: blue;
+    
+}
+a:hover{
+    color: green;
+}

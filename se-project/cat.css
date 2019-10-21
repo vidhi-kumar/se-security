@@ -1,0 +1,25 @@
+
+#gabru{
+    text-align: center;
+    padding-top: 25%;
+    color: royalblue;
+    font-family: 'Lobster',cursive;
+    text-shadow: 2px;
+
+}
+
+body{
+    height: 100vh;
+    width: 100%;
+    background: url("http://getwallpapers.com/wallpaper/full/9/b/3/17078.jpg")
+    
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    font-family: 'Lobster',cursive;
+}
+#Duh{
+    color: black;
+}
