@@ -1,0 +1,13 @@
+body{
+    background: pink;
+    font-family: sans-serif;
+}
+#main .navbar-brand{
+    color: red;
+    font-size: 20px;
+    font-weight: 100;
+}
+#navlink .nav-link:hover{
+    color: white;
+    background: purple;
+}
